@@ -17,7 +17,7 @@ fun main() {
     repositorio.findAll().forEach{println(it)}
 
     println("---------Removendo Maria e imprime todos atualizados-----------")
-    repositorio.remove(maria.nome)
+    repositorio.remove(joao.nome)
     repositorio.findAll().forEach{println(it)}
 
 }
