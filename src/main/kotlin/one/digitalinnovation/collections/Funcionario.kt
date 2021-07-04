@@ -1,5 +1,6 @@
 package one.digitalinnovation.collections
 
+
 data class Funcionarionovo(
     val nome : String,
     val salario: Double,
